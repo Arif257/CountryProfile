@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Country Profile</string>
+    <string name="Bangladesh_button">Bangladesh</string>
+    <string name="pakistan_button">pakistan</string>
+    <string name="india_button">india</string>
+    <string name="bangladesh">bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+    </string>
+    <string name="pakistan">ppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp
+    </string>
+    <string name="india">iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+    </string>
+    <string name="message_text">this is a title</string>
+    <string name="title_text">do u want to exit</string>
+</resources>
